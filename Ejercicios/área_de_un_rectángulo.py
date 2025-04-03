@@ -6,4 +6,4 @@ resultado = ancho * largo
 
 print(titulo)
 print(texto)
-print(f"El área de nuestro rectángulo es de {resultado} cm.")
+print(f"El área de nuestro rectángulo es de {resultado} cm².")
